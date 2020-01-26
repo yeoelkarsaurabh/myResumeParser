@@ -43,6 +43,6 @@ The module would return a list of dictionary objects with result as follows:
 ```
 
 # To DO
-- [] Extract Exprience
-- [] Extract Education
-- [] Extract Achievements
+-  Extract Exprience
+-  Extract Education
+-  Extract Achievements
